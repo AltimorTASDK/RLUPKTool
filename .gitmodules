@@ -1,0 +1,3 @@
+[submodule "RLUPKTool\\SharpZipLib"]
+	path = RLUPKTool\\SharpZipLib
+	url = https://github.com/icsharpcode/SharpZipLib.git
